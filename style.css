@@ -8,7 +8,7 @@ m:root {
 body {
   background-color: black;
   font-family: Chaucer;
-  color: var(--font-color);
+  color: white;
 
   display: flex;
   justify-content: center;
